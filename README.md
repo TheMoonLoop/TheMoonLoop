@@ -12,6 +12,8 @@ I like rhythm games in general (although I really like osu!), and I also play Ge
 I really like programming, although I don't have any personal project (for now) and I'm not here for that either. I help in the Spanish translation of the wiki on the official page of osu!. Partly to understand how GitHub works and partly to improve my English.\
 Apart from all of the above, I have nothing more to say. If you want to talk to me I have Discord and I'm there almost 24/7.
 
+[Finished translations / Traducciones terminadas](translations-traducciones.md)
+
 \
 **TheMooonLoop#5880 (Principal)\
 Rubens#0014 (Secondary)**
