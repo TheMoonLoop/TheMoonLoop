@@ -15,5 +15,5 @@ Apart from all of the above, I have nothing more to say. If you want to talk to 
 [Finished translations / Traducciones terminadas](translations-traducciones.md)
 
 \
-**TheMooonLoop#5880 (Principal)\
-Rubens#0014 (Secondary)**
+**TheMooonLoop (Principal)\
+Rubens (Secondary)**
