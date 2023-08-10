@@ -15,5 +15,6 @@ Apart from all of the above, I have nothing more to say. If you want to talk to 
 [Finished translations / Traducciones terminadas](translations-traducciones.md)
 
 \
-**TheMoonLoop (Principal)\
-Rubens (Secondary)**
+***Discord***\
+**themoonloop (Principal)\
+rubens005 (Secondary)**
