@@ -10,4 +10,11 @@ b. [[ES] Add several `File Formats` articles ](https://github.com/ppy/osu-wiki/p
   4. [.osb (Tipo de archivo)](https://osu.ppy.sh/wiki/es/osu!_File_Formats/Osb_(file_format))
 
 c. [[ES] Add several `Game modifier` articles _(ongoing)_](https://github.com/ppy/osu-wiki/pull/9418)
- - [[ES] Add `10K`, `Auto`, `Autopilot`, `Cinema`, `Co-op`, `Double Time` and `Easy`  _(ongoing)_ ](https://github.com/ppy/osu-wiki/pull/9951)
+ - [[ES] Add `10K`, `Auto`, `Autopilot`, `Cinema`, `Co-op`, `Double Time` and `Easy`](https://github.com/ppy/osu-wiki/pull/9951)
+   1. [10k (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/10K)
+   2. [Auto (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Auto)
+   3. [Autopilot (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Autopilot)
+   4. [Cinema (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Cinema)
+   5. [Co-op (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Co-op)
+   6. [Double Time (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Double_Time)
+   7. [Easy (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Easy)
