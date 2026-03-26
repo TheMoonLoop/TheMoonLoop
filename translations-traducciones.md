@@ -1,15 +1,15 @@
 # Finished translations / Traducciones terminadas
 
-* [[ES] Add `.osk (file format)`](https://github.com/ppy/osu-wiki/pull/7753)
+* [[ES] Add `.osk (file format)`](https://github.com/ppy/osu-wiki/pull/7753) (**Merged**)
     1. [.osk (Tipo de archivo)](https://osu.ppy.sh/wiki/es/Client/File_formats/Osk_%28file_format%29)
 
-* [[ES] Add several `File Formats` articles ](https://github.com/ppy/osu-wiki/pull/7905)
+* [[ES] Add several `File Formats` articles ](https://github.com/ppy/osu-wiki/pull/7905) (**Merged**)
     1. [.osz (Tipo de archivo)](https://osu.ppy.sh/wiki/es/osu!_File_Formats/Osz_(file_format))
     2. [.osr (Tipo de archivo)](https://osu.ppy.sh/wiki/es/osu!_File_Formats/Osr_(file_format))
     3. [.osu (Tipo de archivo)](https://osu.ppy.sh/wiki/es/osu!_File_Formats/Osu_(file_format))
     4. [.osb (Tipo de archivo)](https://osu.ppy.sh/wiki/es/osu!_File_Formats/Osb_(file_format))
 
-* [[ES] Add several `Game modifier` articles](https://github.com/ppy/osu-wiki/pull/9418)
+* [[ES] Add several `Game modifier` articles](https://github.com/ppy/osu-wiki/pull/9418) (**Merged**)
     * [[ES] Add `10K`, `Auto`, `Autopilot`, `Cinema`, `Co-op`, `Double Time` and `Easy`](https://github.com/ppy/osu-wiki/pull/9951)
         1. [10k (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/10K)
         2. [Auto (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Auto)
@@ -19,4 +19,4 @@
         6. [Double Time (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Double_Time)
         7. [Easy (mod)](https://osu.ppy.sh/wiki/es/Gameplay/Game_modifier/Easy)
 
-* [[ES] Add Beatmap information](https://github.com/ppy/osu-wiki/pull/14232) (_Pending_)
+* [[ES] Add Beatmap information](https://github.com/ppy/osu-wiki/pull/14232) (**Closed**)
